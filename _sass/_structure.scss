@@ -1,0 +1,40 @@
+html,
+body {
+  background-color: white;
+}
+
+article,
+section {
+  padding: 0 15px;
+}
+
+hr {
+  border: 0;
+  background-color: $gray-lighter;
+  color: $gray-lighter;
+  height: 1px;
+  margin: 15px -15px;
+}
+
+iframe {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media (max-width: 820px) {
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media (min-width: 820px) {
+  html, body {
+    margin: 0 auto;
+    padding: 0;
+    width: 820px;
+  }
+}

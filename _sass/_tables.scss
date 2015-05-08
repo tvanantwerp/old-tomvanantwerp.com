@@ -1,0 +1,23 @@
+table {
+  border: 2px solid $gray-lighter;
+  border-collapse: collapse;
+  margin: 0 auto $font-line-height auto;
+  padding: 0;
+
+  thead,
+  tbody {
+    margin: 0;
+    padding: 0;
+  }
+
+  thead {
+    background-color: $gray-lightest;
+  }
+
+  th,
+  td {
+    border: 1px solid $gray-lighter;
+    margin: 0;
+    padding: 10px 15px;
+  }
+}
