@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kitchen Sink"
+title:  "Under Development"
 author: Tom VanAntwerp
-date:   2015-03-20 21:21:00
-description: This is a test for writing all necessary and appropriate CSS styles.
+date:   2015-05-08 16:44:00
+description: I'm still building the theme for my GitHub Pages blog. You may safely ignore this entire site for the time being!
 categories: [test, still a test, big old test]
 ---
+
+<p>I'm still building the theme for my GitHub Pages blog. You may safely ignore this entire site for the time being!</p>
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
 
@@ -227,7 +229,7 @@ The <u>u element</u> example</p>
 <b>Textarea</b>  
 <textarea cols="30" rows="5">Textarea text</textarea>  
 </label>  
-</fieldset> 
+</fieldset>
 
 <fieldset>  
 <legend>Clickable inputs and buttons</legend>  
@@ -238,7 +240,7 @@ The <u>u element</u> example</p>
 <button type="reset">Reset (button)</button>  
 <button type="button">Button (button)</button>  
 <button type="submit">Submit (button)</button>  
-</fieldset> 
+</fieldset>
 
 <fieldset id="boxsize">  
 <legend>box-sizing tests</legend>  
@@ -246,7 +248,7 @@ The <u>u element</u> example</p>
 <div><input type="email" value="email"></div>  
 <div><input type="search" value="search"></div>  
 <div><input type="url" value="http://example.com"></div>  
-<div><input type="password" value="password"></div> 
+<div><input type="password" value="password"></div>
 
 <div><input type="color" value="#000000"></div>  
 <div><input type="number" value="5"></div>  
@@ -256,18 +258,18 @@ The <u>u element</u> example</p>
 <div><input type="week" value="1970-W01"></div>  
 <div><input type="time" value="18:23"></div>  
 <div><input type="datetime" value="1970-01-01T00:00:00Z"></div>  
-<div><input type="datetime-local" value="1970-01-01T00:00"></div> 
+<div><input type="datetime-local" value="1970-01-01T00:00"></div>
 
 <div><input type="radio"></div>  
-<div><input type="checkbox"></div> 
+<div><input type="checkbox"></div>
 
 <div><select><option>Option 01</option><option>Option 02</option></select></div>  
-<div><textarea cols="30" rows="5">Textarea text</textarea></div> 
+<div><textarea cols="30" rows="5">Textarea text</textarea></div>
 
 <div><input type="image" src="http://placekitten.com/90/24" alt="Image (input)"></div>  
 <div><input type="reset" value="Reset (input)"></div>  
 <div><input type="button" value="Button (input)"></div>  
-<div><input type="submit" value="Submit (input)"></div> 
+<div><input type="submit" value="Submit (input)"></div>
 
 <div><button type="reset">Reset (button)</button></div>  
 <div><button type="button">Button (button)</button></div>  
