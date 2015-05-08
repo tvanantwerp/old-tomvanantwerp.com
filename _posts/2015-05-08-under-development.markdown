@@ -4,7 +4,6 @@ title:  "Under Development"
 author: Tom VanAntwerp
 date:   2015-05-08 16:44:00
 description: I'm still building the theme for my GitHub Pages blog. You may safely ignore this entire site for the time being!
-categories: [test, still a test, big old test]
 ---
 
 <p>I'm still building the theme for my GitHub Pages blog. You may safely ignore this entire site for the time being!</p>
