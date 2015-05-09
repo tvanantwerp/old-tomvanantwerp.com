@@ -3,6 +3,7 @@ layout: post
 title:  "The Road to Ludum Dare, Day 14"
 author: Tom VanAntwerp
 date:   2014-08-21 19:14:00
+thumbnail: /images/flappy-death.gif
 description: "Tomorrow is my last day to practice before a very intense 48 hours of Ludum Dare. I’m sure I’ll be excited, frustrated, exhausted, and emotional. Sounds like fun!"
 tags:
   - design
