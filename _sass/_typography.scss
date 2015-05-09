@@ -18,8 +18,8 @@ p,
 dl,
 input,
 label,
-li,
-textarea {
+legend,
+li {
   @extend %default-article-fonts;
   font-weight: 400;
 }
@@ -83,6 +83,7 @@ h6 {
 
 h1 {
   font-size: ( $font-size * 2 );
+  font-weight: 700;
   line-height: ( $font-line-height * 2 );
 
   &.post-title {
@@ -92,6 +93,7 @@ h1 {
 
 h2 {
   font-size: ( $font-size * 1.6 );
+  font-weight: 700;
   line-height: ( $font-line-height * 1.6 );
 }
 
@@ -180,6 +182,39 @@ blockquote {
   }
 }
 
+button,
+input,
+select,
+textarea {
+  background-color: $magenta;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-family: $font-sans-serif;
+  font-size: ( $font-size * 0.8 );
+  font-weight: 400;
+  line-height: ( $font-line-height * 0.8 );
+  margin: 0 0 $font-line-height 0;
+  padding: 2px 7px;
+}
+
+// These 4 prefixed styles are all necessary to change the color of placeholder text
+::-webkit-input-placeholder {
+ color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;
+}
+
+:-ms-input-placeholder {
+   color: white;
+}
+
 cite {
   font-style: italic;
 }
@@ -197,6 +232,18 @@ var {
   line-height: 20px;
   padding: 0 7px 1px 7px;
   transform: translateY(-1px);
+
+  code,
+  kbd,
+  samp,
+  var {
+    background-color: none;
+    border: none;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 0;
+    transform: none;
+  }
 }
 
 del,
