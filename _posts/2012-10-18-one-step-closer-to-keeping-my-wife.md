@@ -3,6 +3,7 @@ layout: post
 title:  "One Step Closer to Keeping My Wife"
 author: Tom VanAntwerp
 date:   2012-10-18 20:36:00
+thumbnail: /images/tom-and-val-at-poker-tournament.jpg
 description: After the Department of Homeland Security cashes my $1,000+ check and shuffles my papers for a few months (or years), Valerie will finally have a green card.
 ---
 

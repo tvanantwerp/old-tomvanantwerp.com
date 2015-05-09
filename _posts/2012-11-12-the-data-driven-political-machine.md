@@ -3,10 +3,13 @@ layout: post
 title:  "The Data Driven Political Machine"
 author: Tom VanAntwerp
 date:   2012-11-12 22:27:00
-description: Utilizing data better than the other guy is essential in a digital world where elections are decided at the margin.
+thumbnail: /images/narwhal.png
+description: "As Obama has proved twice, successful campaigns are increasingly dependent on data: where it's from, how well it’s crunched, and whether or not you can leverage it. Utilizing data better than the other guy is essential in a digital world where elections are decided at the margin."
 ---
 
 ![Narwhal](/images/narwhal.png)
+
+As Obama has proved twice, successful campaigns are increasingly dependent on data: where it’s from, how well it’s crunched, and whether or not you can leverage it. Utilizing data better than the other guy is essential in a digital world where elections are decided at the margin.
 
 ## Whales in a Sea of Data
 

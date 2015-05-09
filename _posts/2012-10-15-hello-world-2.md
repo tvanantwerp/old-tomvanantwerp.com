@@ -3,7 +3,7 @@ layout: post
 title:  "TomVanAntwerp.com Is Live"
 author: Tom VanAntwerp
 date:   2012-10-15 19:28:00
-description: It’s hard to believe that I’ve had this name for a quarter century, give or take, but only just bought the domain for it.
+description: "It’s hard to believe that I’ve had this name for a quarter century, give or take, but only just bought the domain for it."
 ---
 
 It’s hard to believe that I’ve had this name for a quarter century, give or take, but only just bought the domain for it.

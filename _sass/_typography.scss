@@ -131,17 +131,8 @@ ul {
     list-style: none;
     margin: 0 0  $font-line-height 0;
 
-    > li {
-      margin: 0 0 30px 0;
-
-      > h2,
-      > p {
-        margin: 0 0 0 0;
-      }
-
-      > p.post-meta {
+    > li > p.post-meta {
         @extend %default-post-meta;
-      }
     }
   }
 }
@@ -407,4 +398,15 @@ table {
   td {
     font-variant: tabular-nums;
   }
+}
+
+
+.pagination {
+  border: 1px solid $magenta;
+  color: $font-color;
+  font-family: $font-sans-serif;
+  font-size: $font-size;
+  line-height: $font-line-height;
+  padding: 10px 0;
+  text-align: center;
 }

@@ -38,6 +38,7 @@ $font-size: 18px;
 $font-line-height: ( $font-size * 1.5 );
 
 @import "reset";
+@import "clearfix";
 @import "structure";
 @import "typography";
 @import "highlights";

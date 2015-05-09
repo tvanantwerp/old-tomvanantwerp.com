@@ -48,3 +48,24 @@ hr {
     max-width: 30%;
   }
 }
+
+ul.post-list > li {
+  @extend %clearfix;
+
+  border-bottom: 1px solid $magenta;
+  padding: 15px 0 20px 0;
+
+  &:first-child {
+    padding: 0 0 20px 0;
+  }
+
+  &:last-child {
+    border: none;
+    padding: 15px 0 0 0;
+  }
+
+  > h2,
+  > p {
+    margin: 0 0 0 0;
+  }
+}
