@@ -15,7 +15,7 @@ tags:
   - 2012 Election
 ---
 
-I’ve written before how various think tanks are criticized as highly biased—and therefore unreliable—based on [their sources of funding](http://tomvanantwerp.com/think-tank-funding-guilt-association/). As a think tank employee, I can tell you anecdotally that my own biases are not inherited from my employer’s donors. Rather than infer a think tank’s bias via the donor base, I wanted to find a direct measure of ideological bias among the think tank staff.
+I’ve written before how various think tanks are criticized as highly biased—and therefore unreliable—based on [their sources of funding](/think-tank-funding-guilt-association/). As a think tank employee, I can tell you anecdotally that my own biases are not inherited from my employer’s donors. Rather than infer a think tank’s bias via the donor base, I wanted to find a direct measure of ideological bias among the think tank staff.
 
 A great deal of [political contributions are public record](http://www.opensecrets.org/). Assuming that contributions to politicians and parties are a form of [revealed preference](http://en.wikipedia.org/wiki/Revealed_preference), such contributions could tell us about the actual biases of think tank employees and how strongly they hold them. Examining political contributions by the [top ten think tanks](http://gotothinktank.com/dev1/wp-content/uploads/2014/01/GoToReport2013.pdf)’ employees in the 2012 election year, I came to the following conclusions:
 

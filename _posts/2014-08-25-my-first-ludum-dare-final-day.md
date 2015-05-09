@@ -3,7 +3,7 @@ layout: post
 title:  "My First Ludum Dare, Final Day"
 author: Tom VanAntwerp
 date:   2014-08-25 06:55:00
-thumbnail: /images/ld30-screenshot-02.png
+thumbnail: /images/falling-upwards.gif
 hide_thumbnail_in_post: true
 description: "I can I can hardly believe it. I finished a video game! I completed my first Ludum Dare game last night with about 2 hours to spare. In two weeks, I went from zero knowledge of game development to building a fully functional game. I’ve titled my Ludum Dare #30 entry Falling Upwards."
 tags:

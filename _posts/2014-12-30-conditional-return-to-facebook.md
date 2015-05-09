@@ -9,9 +9,9 @@ tags:
   - Facebook
 ---
 
-It’s been over 4 months since [I gave up Facebook](http://tomvanantwerp.com/quitting-facebook/). During this time, I have shared no content and limited total browsing time to roughly 4 minutes each day at most. There have been benefits, including regaining 10 hours per month and avoiding the 90% of material in my news feed that I don’t care about or actively loathe. Instead of scrolling through an endless ad-filled feed on my phone, I can take a few minutes to practice my Cantonese [Anki](http://ankisrs.net/) deck.
+It’s been over 4 months since [I gave up Facebook](/quitting-facebook/). During this time, I have shared no content and limited total browsing time to roughly 4 minutes each day at most. There have been benefits, including regaining 10 hours per month and avoiding the 90% of material in my news feed that I don’t care about or actively loathe. Instead of scrolling through an endless ad-filled feed on my phone, I can take a few minutes to practice my Cantonese [Anki](http://ankisrs.net/) deck.
 
-However, there have been noticeable disadvantages as well. Mainly, it’s harder to share things with my friends in a casual way. Few of my friends use Twitter, and it’s such a noisy medium that most would miss anything I shared there anyway. [I commented earlier](http://tomvanantwerp.com/life-without-facebook/) on how difficult it was to deal with the desire to share random thoughts without Facebook. And I’ve also missed interacting with friends in those few instances when they share engaging content.
+However, there have been noticeable disadvantages as well. Mainly, it’s harder to share things with my friends in a casual way. Few of my friends use Twitter, and it’s such a noisy medium that most would miss anything I shared there anyway. [I commented earlier](/life-without-facebook/) on how difficult it was to deal with the desire to share random thoughts without Facebook. And I’ve also missed interacting with friends in those few instances when they share engaging content.
 
 After weighing the pros and cons, I’ve decided to return to Facebook. I really want to engage with friends again, and I’m willing to risk the horrible crap that populates the feed in order to do it. But I’m going to try setting some ground rules for myself to keep the experience as positive as possible.
 

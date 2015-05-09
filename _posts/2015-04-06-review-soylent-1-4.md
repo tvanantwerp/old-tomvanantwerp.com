@@ -13,7 +13,7 @@ tags:
   - soylent
 ---
 
-When Soylent launched it’s first crowdfunding campaign, I backed it. A year or so later, no Soylent in hand and impatient with delays, I canceled my funding. Maybe a year ago, after they were finally selling subscriptions, I tried buying it again. I watched my wait time go from 2-3 months to 4-5 months, and canceled again in frustration—and after [trying it without being impressed](http://tomvanantwerp.com/soylent-first-impressions/). But now Soylent has got the funding necessary to really ramp up logistics, and [I’m desperate to find a new and workable diet](http://tomvanantwerp.com/diverticulosis/). So I ordered a month’s worth of Soylent, and received it within the week.
+When Soylent launched it’s first crowdfunding campaign, I backed it. A year or so later, no Soylent in hand and impatient with delays, I canceled my funding. Maybe a year ago, after they were finally selling subscriptions, I tried buying it again. I watched my wait time go from 2-3 months to 4-5 months, and canceled again in frustration—and after [trying it without being impressed](/soylent-first-impressions/). But now Soylent has got the funding necessary to really ramp up logistics, and [I’m desperate to find a new and workable diet](/diverticulosis/). So I ordered a month’s worth of Soylent, and received it within the week.
 
 I can best describe the newest Soylent formula as a sand smoothie.
 
