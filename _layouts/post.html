@@ -7,7 +7,9 @@ layout: default
   <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   {% if page.thumbnail %}
     {% unless page.hide_thumbnail_in_post %}
-      <img class="thumbnail" src="{{ page.thumbnail }}">
+      <a href="{{ page.thumbnail  | prepend: site.baseurl}}">
+        <img class="thumbnail" src="{{ page.thumbnail }}">
+      </a>
     {% endunless %}
   {% endif %}
   {{ content }}
