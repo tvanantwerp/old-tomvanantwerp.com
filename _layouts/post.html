@@ -4,7 +4,11 @@ layout: default
 <article>
 
   <h1 class="post-title">{{ page.title }}</h1>
-  <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  <p class="post-meta">
+    <time datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+    {% if page.author %} by {{ page.author }}{% endif %}
+    {% if page.meta %} • {{ page.meta }}{% endif %}
+  </p>
   {% if page.thumbnail %}
     {% unless page.hide_thumbnail_in_post %}
       <a href="{{ page.thumbnail  | prepend: site.baseurl}}">
