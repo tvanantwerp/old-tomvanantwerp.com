@@ -2,7 +2,7 @@
 layout: post
 title:  "I Will Make a Video Game in Two Weeks"
 author: Tom VanAntwerp
-date:   2014-08-08 14:51:0025
+date:   2014-08-08 14:25:00
 description: "On August 23-24, I will be participating in Ludum Dare, a 48-hour video game making event. My goal: make a video game of my own from scratch. As of right now, I have just over 14 days to train. I have never made a video game before, and I have how to begin—I am completely unprepared. This is exciting and terrifying!"
 tags:
   - design

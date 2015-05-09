@@ -2,7 +2,7 @@
 layout: post
 title:  "A Week with my Google Watch"
 author: Tom VanAntwerp
-date:   2014-07-15 16:15:0025
+date:   2014-07-15 16:15:00
 thumbnail: /images/lcars-watch.jpg
 description: "I already shared my initial impressions, but I wanted to write down an in-depth account of living with my Samsung Gear Live running Android Wear after the first week. I do enjoy my new watch, but it definitely has room for improvement."
 tags:
