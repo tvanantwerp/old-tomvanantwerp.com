@@ -4,6 +4,14 @@ title:  "Building a Picture Book for the Web"
 author: Tom VanAntwerp
 date:   2014-11-12 16:57:00
 description: "The Tax Foundation recently published a new book of charts (as we call them internally, a chartbook) titled Business in America Illustrated, describing the business tax environment in the United States. In the past, the PDF of the print version was just uploading to taxfoundation.org. This was never ideal, as it limited individuals’ ability to share specific charts and navigation the publication easily. So this year, I was tasked with building a digital chartbook to solve those problems. This post goes into gory detail about how I did it."
+tags:
+  - AngularJS
+  - chartbook
+  - Polymer
+  - programming
+  - reveal.js
+  - Tax Foundation
+  - web components
 ---
 
 The Tax Foundation recently published a new book of charts (as we call them internally, a chartbook) titled [Business in America Illustrated](http://interactive.taxfoundation.org/business-in-america), describing the business tax environment in the United States. In the past, the PDF of the print version was just uploading to taxfoundation.org. This was never ideal, as it limited individuals’ ability to share specific charts and navigation the publication easily. So this year, I was tasked with building a digital chartbook to solve those problems. This post goes into gory detail about how I did it.

@@ -4,6 +4,11 @@ title:  "Things I've Been Reading #2"
 author: Tom VanAntwerp
 date:   2014-11-17 15:55:00
 description: "Since last week I’ve read about: mass surveillance, cyber warfare, treadmill desks, and the one-way trip to Mars you won’t be taking."
+tags:
+  - NSA
+  - programming
+  - quantified self
+  - surveillance
 ---
 
 Since last week I’ve read about: mass surveillance, cyber warfare, treadmill desks, and the one-way trip to Mars you won’t be taking.

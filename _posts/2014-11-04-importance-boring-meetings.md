@@ -5,6 +5,10 @@ author: Tom VanAntwerp
 date:   2014-11-04 10:06:00
 thumbnail: /images/status-meeting.png
 description: "A few minutes of my time each day to share what I’m working on and to learn what others are doing is a very small price to pay. Having seen the alternative, I’m happy to endure sometimes boring status meetings to make sure everyone is in-the-loop rather than the dark."
+tags:
+  - business
+  - management
+  - meetings
 ---
 
 I recently read a blog post at 99U calling for the [death of status meetings](http://99u.com/workbook/33875/kill-the-dreaded-status-meeting). The author argues that they are nothing more than boring time-wasters where everyone waits for their turn to talk and zones out the rest of the time. I would agree with much of that statement, except for the claim that they are time wasters. They may be dull, but they serve a vital purpose for teams and organizations. Without them, you should expect ignorance and chaos.

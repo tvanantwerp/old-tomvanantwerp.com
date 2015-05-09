@@ -5,6 +5,12 @@ author: Tom VanAntwerp
 date:   2015-03-30 11:13:00
 thumbnail: /images/alea-logo.svg
 description: "The idea is that you’ve got a long list of words, all numbered with five digits between one and six. Then you roll a die five times, look up the number corresponding to your five rolls, and add that word to your password. Do that maybe seven times and you’ve got a password that’s easy for you to remember but hard to guess. The major problem I saw with this method of password generation was this: I don’t own any dice!"
+tags:
+  - cryptography
+  - NSA
+  - password management
+  - programming
+  - surveillance
 ---
 
 Last week, I read an interesting article about [generating random passwords](https://firstlook.org/theintercept/2015/03/26/passphrases-can-memorize-attackers-cant-guess/) with a method called Diceware. The idea is that you’ve got a long list of words (7,776, precisely) all numbered with five digits between one and six. Then you roll a die five times, look up the number corresponding to your five rolls, and add that effectively random word to your password. Do that maybe seven times and you’ve got a password that’s easy for you to remember (because it’s just seven English words) but hard to guess (7,7767 ≈ 1.72 octillion possible combinations). If you could try one trillion combinations per second, it would still take tens of millions of years to test them all. It’s basically a system for creating passwords along the lines of [`correct horse battery staple`](https://xkcd.com/936/).

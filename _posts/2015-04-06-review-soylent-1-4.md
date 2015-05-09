@@ -5,6 +5,12 @@ author: Tom VanAntwerp
 date:   2015-04-06 18:45:00
 thumbnail: /images/soylent-1-4.jpg
 description: "While I’m very please with Soylent’s ability to actually ship product for a change, Soylent version 1.4 still isn’t quite right. It’s still too early in my Soylent diet to see how it affects my health and energy levels, but I’ll be tracking my consumption and trying to quantify any changes."
+tags:
+  - crowdfunding
+  - diverticulitis
+  - diverticulosis
+  - food
+  - soylent
 ---
 
 When Soylent launched it’s first crowdfunding campaign, I backed it. A year or so later, no Soylent in hand and impatient with delays, I canceled my funding. Maybe a year ago, after they were finally selling subscriptions, I tried buying it again. I watched my wait time go from 2-3 months to 4-5 months, and canceled again in frustration—and after [trying it without being impressed](http://tomvanantwerp.com/soylent-first-impressions/). But now Soylent has got the funding necessary to really ramp up logistics, and [I’m desperate to find a new and workable diet](http://tomvanantwerp.com/diverticulosis/). So I ordered a month’s worth of Soylent, and received it within the week.

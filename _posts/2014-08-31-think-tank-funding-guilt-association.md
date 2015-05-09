@@ -5,6 +5,11 @@ author: Tom VanAntwerp
 date:   2014-08-31 04:57:00
 thumbnail: /images/cato.jpg
 description: "Working at a public policy think tank in DC, I’ve often seen people in the media and at competing policy groups attack the funders of think tanks rather than debate their ideas and research. Very often these attacks will focus on a handful of funders whose contributions don’t constitute a sizeable amount of total revenues, but whose public brand is toxic enough to wear off on the think tank in question. It’s an ad hominem by proxy: if people loathe any subset of your donors, then everything you do is instantly invalid. It’s lazy, dishonest, and disgustingly effective."
+tags:
+  - data
+  - nonprofits
+  - think tanks
+  - Wikipedia
 ---
 
 Working at a public policy think tank in DC, I’ve often seen people in the media and at competing policy groups attack the funders of think tanks rather than debate their ideas and research. Very often these attacks will focus on a handful of funders whose contributions don’t constitute a sizeable amount of total revenues, but whose public brand is toxic enough to wear off on the think tank in question. It’s an *ad hominem* by proxy: if people loathe any subset of your donors, then everything you do is instantly invalid. It’s lazy, dishonest, and disgustingly effective.

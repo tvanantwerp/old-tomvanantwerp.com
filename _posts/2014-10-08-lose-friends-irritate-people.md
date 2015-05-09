@@ -5,6 +5,13 @@ author: Tom VanAntwerp
 date:   2014-10-08 12:05:00
 thumbnail: /images/uber-protest.jpg
 description: "A few minutes of my time each day to share what I’m working on and to learn what others are doing is a very small price to pay. Having seen the alternative, I’m happy to endure sometimes boring status meetings to make sure everyone is in-the-loop rather than the dark."
+tags:
+  - business
+  - economy
+  - fairness
+  - psychology
+  - taxi
+  - Uber
 ---
 
 As I’m writing this, just outside my office the streets are jammed with countless taxi cabs all honking incessantly. Presumably, these taxis are protesting the very existence of [Uber](https://www.uber.com/), a service which I’ve used before and found both cheaper and more convenient than regular taxis. I can hear the horns blaring from inside, and I’m not even in an exterior office with a window. They’ve been going at it for nearly an hour now with no end in sight.

@@ -5,6 +5,12 @@ author: Tom VanAntwerp
 date:   2015-03-30 11:13:00
 thumbnail: /images/colon.gif
 description: "A few weeks ago I went to the emergency room with abdominal pains and left with a diagnosis: diverticulosis. It’s a condition that most people get eventually, but typically not until old age. I’ll spend the rest of my life trying to prevent infection and minimize further damage to my colon."
+tags:
+  - death
+  - diverticulitis
+  - diverticulosis
+  - health
+  - health care
 ---
 
 A few weeks ago I went to the emergency room with abdominal pains and left with a diagnosis: [diverticulosis](http://www.webmd.com/digestive-disorders/tc/diverticulosis-topic-overview). It’s a condition that most people get eventually, but typically not until old age. Small pouches have formed in the wall of my colon which are susceptible to inflammation and infection (called [diverticulitis](http://www.webmd.com/digestive-disorders/tc/diverticulitis-topic-overview)). There is no cure for this condition; the pouches are permanent, barring a colon resection. I’ll spend the rest of my life trying to prevent infection and minimize further damage to my colon.

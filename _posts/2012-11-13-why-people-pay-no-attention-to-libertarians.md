@@ -4,6 +4,11 @@ title:  "Why People Pay No Attention to Libertarians"
 author: Tom VanAntwerp
 date:   2012-11-13 19:44:00
 description: "The libertarian throws out theory and buzzwords and doesn’t address the emotional needs of any actual human beings whatsoever."
+tags:
+  - business
+  - emotion
+  - psychology
+  - rationality
 ---
 
 Aaron Ross Powell makes the case at Libertarianism.org that [the advice of libertarians should be taken seriously](http://www.libertarianism.org/blog/why-people-should-pay-more-attention-libertarians) due to the typical psychological profile of libertarians. [Research by Jonathan Haidt and others](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0042366) indicates that libertarians are more cerebral than most, and tend toward dispassionate analysis rather than emotion-driven instincts.

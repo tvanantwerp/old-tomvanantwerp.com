@@ -6,6 +6,8 @@ date:   2012-10-18 20:36:00
 thumbnail: /images/tom-and-val-at-poker-tournament.jpg
 hide_thumbnail_in_post: true
 description: After the Department of Homeland Security cashes my $1,000+ check and shuffles my papers for a few months (or years), Valerie will finally have a green card.
+tags:
+  - immigration
 ---
 
 I just got back from the Post Office, where I mailed a small book’s worth of Val’s immigration forms. After the Department of Homeland Security cashes my $1,000+ check and shuffles my papers for a few months (or years), Valerie will finally have a green card. Hooray!

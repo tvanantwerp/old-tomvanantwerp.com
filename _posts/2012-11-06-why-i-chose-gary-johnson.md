@@ -4,6 +4,12 @@ title:  "Why I Chose Gary Johnson"
 author: Tom VanAntwerp
 date:   2012-11-06 19:15:00
 description: "I don’t see Mitt as better than Barack, even at the margin. Even if he were, being marginally better than completely awful isn’t good enough."
+tags:
+  - 2012 Election
+  - Gary Johnson
+  - Libertarian Party
+  - Republican Party
+  - voting
 ---
 
 I’m writing this in response to Randy Barnett’s piece in the Wall Street Journal: [The Mistake That Is the Libertarian Party](http://online.wsj.com/article/SB10001424052970203922804578080684214526670.html). He argues that a vote for Libertarian candidate Gary Johnson will only siphon votes away from Mitt Romney, who is at least marginally better than Barack Obama.

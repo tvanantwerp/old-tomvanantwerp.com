@@ -6,6 +6,10 @@ date:   2015-01-05 15:19:00
 thumbnail: /images/soylent.jpg
 hide_thumbnail_in_post: true
 description: "My friend and coworker Dan Carvajal brought a bag of Soylent into the office and split it with me for lunch today. I’ve been wanting to try it for a while, but it’s been impossible to get my hands on any. I guess meal replacement logistics don’t scale as well as SaaS. After drinking nearly 500mL of the stuff, I know that I’m not ready for the future of food just yet."
+tags:
+  - crowdfunding
+  - soylent
+  - food
 ---
 My friend and coworker [Dan Carvajal](https://twitter.com/dan_v_c) brought a bag of [Soylent](http://www.soylent.me/) into the office and split it with me for lunch today. I’ve been wanting to try it for a while, but it’s been impossible to get my hands on any. I guess meal replacement logistics don’t scale as well as [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service). After drinking nearly 500mL of the stuff, I know that I’m not ready for the future of food just yet.
 

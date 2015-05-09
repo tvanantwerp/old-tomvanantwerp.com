@@ -4,6 +4,13 @@ title:  "Things I've Been Reading"
 author: Tom VanAntwerp
 date:   2014-11-10 11:39:00
 description: "Of all the things I read online, some things are good enough to recommend more thoroughly than via tweet. I’ve decided to start sharing a few selections of things I’ve been reading on a regular basis. This week: Japanese business culture, how Reddit’s front page works, fitting in as a black woman in tech, Cantonese proverbs illustrated, and tracking your coworkers whereabouts (if you really wanted to)."
+tags:
+  - business
+  - Cantonese
+  - Japan
+  - programming
+  - race
+  - surveillance
 ---
 
 Of all the things I read online, some things are good enough to recommend more thoroughly than via tweet. I’ve decided to start sharing a few selections of things I’ve been reading on a regular basis. This week: Japanese business culture, how Reddit’s front page works, fitting in as a black woman in tech, Cantonese proverbs illustrated, and tracking your coworkers whereabouts (if you really wanted to).

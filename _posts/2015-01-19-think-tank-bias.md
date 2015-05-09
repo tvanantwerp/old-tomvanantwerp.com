@@ -6,6 +6,13 @@ date:   2015-01-19 09:25:00
 thumbnail: /images/think-tank-election-gifts-percentage.png
 hide_thumbnail_in_post: true
 description: "I’ve written before how various think tanks are criticized as highly biased—and therefore unreliable—based on their sources of funding. As a think tank employee, I can tell you anecdotally that my own biases are not inherited from my employer’s donors. Rather than infer a think tank’s bias via the donor base, I wanted to find a direct measure of ideological bias among the think tank staff."
+tags:
+  - data
+  - Democratic Party
+  - Libertarian Party
+  - Republican Party
+  - think tanks
+  - 2012 Election
 ---
 
 I’ve written before how various think tanks are criticized as highly biased—and therefore unreliable—based on [their sources of funding](http://tomvanantwerp.com/think-tank-funding-guilt-association/). As a think tank employee, I can tell you anecdotally that my own biases are not inherited from my employer’s donors. Rather than infer a think tank’s bias via the donor base, I wanted to find a direct measure of ideological bias among the think tank staff.

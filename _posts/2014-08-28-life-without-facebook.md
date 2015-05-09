@@ -4,6 +4,12 @@ title:  "Life Without Facebook"
 author: Tom VanAntwerp
 date:   2014-08-28 10:35:00
 description: "I gave up using Facebook two weeks ago. I hadn’t appreciated the psychological release that Facebook provided for dealing with randomly occurring thoughts. Musings, entertaining circumstances, jokes, cool articles, pictures of interesting things—I used to send them off to my Facebook feed without hesitation. It was like a mental pressure release valve. I could throw any idea against the wall and see what stuck."
+tags:
+  - emotion
+  - psychology
+  - friendship
+  - social media
+  - withdrawal
 ---
 
 I gave up using Facebook two weeks ago. After crunching the numbers and discovering that [I wasn’t engaging with friends in the way I thought I was](http://www.tomvanantwerp.com/quitting-facebook/), it seemed like an easy way to get back ten hours of my life each month. And in that respect, it’s been a success. I’ve missed very little of the things that get shared through the Facebook news feed. Those few items of actual personal interest seem to find their way to me regardless, and I’m less distracted by trivia.
