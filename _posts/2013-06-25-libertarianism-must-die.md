@@ -3,7 +3,8 @@ layout: post
 title:  "Libertarianism Must Die"
 author: Tom VanAntwerp
 date:   2013-06-25 11:50:00
-description: "pointing out the racist Ron Paul newsletters, but it was absolutely the right thing to do. Whenever a supposedly libertarian person advocates racism, such as in the form of immigration restrictions, they need to be publicly shamed for it. Otherwise our silence becomes assent, and we are likewise branded by their racism."
+thumbnail: /images/dead_gadsden.png
+description: "The old rich white male racist homophobic pro-Confederacy anti-poor people brand of libertarianism must die. It’s a stain on the ideas of liberty that ought to appeal to all people, the least-well-off especially."
 tags:
   - liberty
   - fairness
