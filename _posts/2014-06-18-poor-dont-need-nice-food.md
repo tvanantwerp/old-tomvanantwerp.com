@@ -32,4 +32,4 @@ The poor don’t need nice food. They need cheap, quick, nutritious food that is
 
 Frankly, they should just buy [Soylent](http://www.soylent.me/).
 
-**Update**: It appears I’ve been reading an older version of the book’s introduction. Much of the vacuous language has been removed in the most recent version, available from the [Kickstarter page](https://www.kickstarter.com/projects/490865454/good-and-cheap). No doubt many of the readers from Reddit and elsewhere pointed out what I have, and Leanne edited the book accordingly.
+> **Update**: It appears I’ve been reading an older version of the book’s introduction. Much of the vacuous language has been removed in the most recent version, available from the [Kickstarter page](https://www.kickstarter.com/projects/490865454/good-and-cheap). No doubt many of the readers from Reddit and elsewhere pointed out what I have, and Leanne edited the book accordingly.
