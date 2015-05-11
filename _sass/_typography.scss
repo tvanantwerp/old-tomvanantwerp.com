@@ -410,3 +410,32 @@ table {
   padding: 10px 0;
   text-align: center;
 }
+
+footer > a {
+  color: $font-color;
+  font-size: 30px;
+  margin: 0 10px;
+  transition: color 0.1s ease-in;
+
+  &:visited {
+    color: $font-color;
+  }
+}
+
+.twitter-link {
+  &:hover {
+    color: #55acee;
+  }
+}
+
+.github-link {
+  &:hover {
+    color: #4183c4;
+  }
+}
+
+.dribbble-link {
+  &:hover {
+    color: #ea4c89;
+  }
+}
