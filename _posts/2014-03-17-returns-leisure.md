@@ -6,7 +6,7 @@ date:   2014-03-17 08:46:00
 description: "This morning I had a thought: of all my leisure activities, which one has the highest return on investment? In other words, I want to know how much quality leisure time do I enjoy per dollar spent for various activities?"
 tags:
   - data
-  - investment
+  - investing
   - leisure
   - quantified self
 ---

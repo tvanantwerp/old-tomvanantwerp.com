@@ -6,7 +6,7 @@ date:   2014-03-31 14:05:00
 description: "After calculating all of the costs, I realize that they barely had any impact on my decisions. Since most of the costs were sunk and marginal costs were zero, I just did whatever I felt like doing most with little concern for expenses."
 tags:
   - data
-  - investment
+  - investing
   - leisure
   - quantified self
   - video games
