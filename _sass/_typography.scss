@@ -189,21 +189,30 @@ textarea {
   padding: 2px 7px;
 }
 
+button,
+.button {
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.6);
+}
+
 // These 4 prefixed styles are all necessary to change the color of placeholder text
 ::-webkit-input-placeholder {
  color: white;
+ font-style: italic;
 }
 
 :-moz-placeholder { /* Firefox 18- */
    color: white;
+   font-style: italic;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
    color: white;
+   font-style: italic;
 }
 
 :-ms-input-placeholder {
    color: white;
+   font-style: italic;
 }
 
 cite {
