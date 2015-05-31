@@ -2,7 +2,7 @@
 layout: post
 title:  "There are Other Companies Besides Apple"
 author: Tom VanAntwerp
-date:   2015-05-25 11:33:00
+date:   2015-05-30 20:25:00
 description: "I'm an IT professional, a developer, and a graphic designer. And I confess: I don't use Apple products."
 tags:
   - Apple
