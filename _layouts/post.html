@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<article>
+<article itemscope itemtype="http://schema.org/Article">
 
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
   <p class="post-meta">
-    <time datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}</time>
-    {% if page.author %} by {{ page.author }}{% endif %}
+    <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+    {% if page.author %} by <span itemprop="author" itemscope itemptype="http://schema.org/Person">{{ page.author }}</span>{% endif %}
     {% if page.meta %} • {{ page.meta }}{% endif %}
   </p>
   {% if page.thumbnail %}
@@ -30,7 +30,7 @@ layout: default
 
 
   	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" placeholder="First Name">
-  
+
   	<div id="mce-responses" class="clear">
   		<div class="response" id="mce-error-response" style="display:none"></div>
   		<div class="response" id="mce-success-response" style="display:none"></div>

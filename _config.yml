@@ -12,6 +12,7 @@ paginate_path: "/page/:num/"
 twitter_username: tvanantwerp
 github_username:  tvanantwerp
 dribbble_username: tvanantwerp
+locale: en_us
 
 # Build settings
 
