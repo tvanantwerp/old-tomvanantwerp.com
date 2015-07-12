@@ -307,6 +307,11 @@ header {
 ins {
   color: $purple;
   text-decoration: none;
+
+  em,
+  strong {
+    color: inherit;
+  }
 }
 
 mark {
