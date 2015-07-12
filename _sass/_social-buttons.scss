@@ -26,10 +26,15 @@ $social-colors: (
 .social-link {
   color: inherit;
   margin: 0 8px;
+
+  &:visited {
+    color: inherit;
+  }
 }
 
 @each $social-media, $social-color in $social-colors {
   .#{$social-media}-link {
+    &:focus,
     &:hover {
       color: $social-color;
     }
