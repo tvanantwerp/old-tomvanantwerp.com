@@ -10,7 +10,7 @@
   </a>
   <a
     class="social-link twitter-link"
-    href="https://twitter.com/intent/tweet/?text={{ include.title | uri_escape }}&url={{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}&via=tvanantwerp"
+    href="https://twitter.com/intent/tweet/?text={{ include.title | uri_escape }}&url={{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}&via={{ site.twitter_username }}"
     id="tweet"
     rel="nofollow"
     target="_blank"

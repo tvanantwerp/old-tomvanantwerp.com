@@ -14,7 +14,7 @@ layout: default
         </a>
       {% endif %}
       <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       <p class="post-meta">
         <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
@@ -29,7 +29,7 @@ layout: default
       <p>
         {{ post.description }}
       </p>
-      <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More...</a></p>
+      <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">Read More...</a></p>
     </li>
   {% endfor %}
 </ul>
@@ -58,5 +58,7 @@ layout: default
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}
+  <br />
+  <a href="archive">View Post Archive</a>
 </div>
 {% endif %}
