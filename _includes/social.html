@@ -1,0 +1,43 @@
+<p class="social-buttons">Share:
+  <a
+    class="social-link facebook-link"
+    href="http://www.facebook.com/share.php?u={{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}"
+    id="fb-share"
+    rel="nofollow"
+    target="_blank"
+    title="Share on Facebook">
+      <i class="fa fa-facebook"></i>
+  </a>
+  <a
+    class="social-link twitter-link"
+    href="https://twitter.com/intent/tweet/?text={{ include.title | uri_escape }}&url={{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}&via=tvanantwerp"
+    id="tweet"
+    rel="nofollow"
+    target="_blank"
+    title="Tweet this content">
+      <i class="fa fa-twitter"></i>
+  </a>
+  <a
+    class="social-link linkedin-link"
+    href="http://www.linkedin.com/shareArticle?mini=true&url={{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}"
+    id="linkedin"
+    rel="nofollow"
+    target="_blank"
+    title="Share on LinkedIn">
+      <i class="fa fa-linkedin"></i>
+  </a>
+  <a
+    class="social-link gplus-link"
+    href="https://plus.google.com/share?url={{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}"
+    id="gplus-share"
+    title="Plus 1 on Google+">
+      <i class="fa fa-google-plus"></i>
+  </a>
+  <a
+    class="social-link email-link"
+    href="mailto:?body=Take a look at this article I read: {{ include.title }}. You can see it here: {{ include.title | slugify | prepend: '/' | prepend: site.url | uri_escape }}"
+    id="email-share"
+    title="Email to a Friend">
+      <i class="fa fa-envelope"></i>
+  </a>
+</p>

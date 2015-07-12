@@ -9,6 +9,7 @@ layout: default
     {% if page.author %} by <span itemprop="author" itemscope itemptype="http://schema.org/Person">{{ page.author }}</span>{% endif %}
     {% if page.meta %} • {{ page.meta }}{% endif %}
   </p>
+  {% include social.html title=page.title %}
   {% if page.thumbnail %}
     {% unless page.hide_thumbnail_in_post %}
       <a href="{{ page.thumbnail  | prepend: site.baseurl}}">

@@ -1,0 +1,37 @@
+%default-social-link {
+  color: $gray-light;
+  font-family: $font-sans-serif;
+  font-size: ( $font-size * 0.8 );
+  line-height: ( $font-line-height * 0.8 );
+}
+
+$social-colors: (
+  dribbble: #ea4c89,
+  email: #ff9600,
+  facebook: #4a66b7,
+  gplus: #dd4b38,
+  github: #4183c4,
+  instagram: #305b82,
+  linkedin: #1b86bc,
+  rss: #ff6600,
+  twitter: #55acee
+
+);
+
+.social-buttons {
+  @extend %default-social-link;
+  margin: 0 0 20px 0;
+}
+
+.social-link {
+  color: inherit;
+  margin: 0 8px;
+}
+
+@each $social-media, $social-color in $social-colors {
+  .#{$social-media}-link {
+    &:hover {
+      color: $social-color;
+    }
+  }
+}
