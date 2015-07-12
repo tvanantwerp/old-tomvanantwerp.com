@@ -1,4 +1,10 @@
 header {
+  %default-header-fonts {
+    color: $font-color;
+    font-family: $font-sans-serif;
+    font-weight: 400;
+  }
+
   align-items: baseline;
   border-bottom: 1px solid $gray-lighter;
   display: flex;
@@ -8,10 +14,43 @@ header {
   padding: 0 15px 5px 15px;
 
   h1 {
+    @extend %default-header-fonts;
+    font-size: 36px;
+    line-height: 36px;
     margin: 0;
   }
 
   nav a {
     padding-left: 10px;
+  }
+
+  a {
+    @extend %default-header-fonts;
+    text-decoration: none;
+
+    &:visited {
+      color: $font-color;
+    }
+
+    &:hover,
+    &:focus {
+      color: $magenta-light;
+    }
+  }
+
+  p {
+    @extend %default-header-fonts;
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .site-title {
+    @extend %default-header-fonts;
+    font-size: 20px;
+  }
+
+  .page-links {
+    @extend %default-header-fonts;
+    font-size: 20px;
   }
 }

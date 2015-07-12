@@ -2,4 +2,23 @@ footer {
   border-top: 1px solid $gray-lighter;
   margin: 25px 0 0;
   padding: 15px;
+
+  > a {
+    color: $font-color;
+    font-size: 30px;
+    margin: 0 10px;
+    transition: color 0.1s ease-in;
+
+    &:visited {
+      color: $font-color;
+    }
+  }
+
+  p {
+    color: $font-color;
+    font-family: $font-sans-serif;
+    font-size: $font-size;
+    line-height: $font-line-height;
+    font-weight: 400;
+  }
 }

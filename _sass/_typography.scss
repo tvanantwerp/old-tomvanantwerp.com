@@ -260,60 +260,6 @@ s {
   }
 }
 
-footer {
-  p {
-    color: $font-color;
-    font-family: $font-sans-serif;
-    font-size: $font-size;
-    line-height: $font-line-height;
-    font-weight: 400;
-  }
-}
-
-header {
-  %default-header-fonts {
-    color: $font-color;
-    font-family: $font-sans-serif;
-    font-weight: 400;
-  }
-
-  a {
-    @extend %default-header-fonts;
-    text-decoration: none;
-
-    &:visited {
-      color: $font-color;
-    }
-
-    &:hover,
-    &:focus {
-      color: $magenta-light;
-    }
-  }
-
-  h1 {
-    @extend %default-header-fonts;
-    font-size: 36px;
-    line-height: 36px;
-  }
-
-  p {
-    @extend %default-header-fonts;
-    font-size: 14px;
-    line-height: 18px;
-  }
-
-  .site-title {
-    @extend %default-header-fonts;
-    font-size: 20px;
-  }
-
-  .page-links {
-    @extend %default-header-fonts;
-    font-size: 20px;
-  }
-}
-
 ins {
   color: $purple;
   text-decoration: none;
@@ -389,40 +335,6 @@ sup {
   line-height: ( $font-line-height * 0.8 );
 }
 
-table {
-  font-family: $font-sans-serif;
-  font-size: ( $font-size * 0.8 );
-  font-weight: 400;
-  line-height: ( $font-line-height * 0.8 );
-
-  th,
-  td {
-    p, li {
-      font-family: $font-sans-serif;
-      font-size: ( $font-size * 0.8 );
-      font-weight: 400;
-      line-height: ( $font-line-height * 0.8 );
-    }
-
-    p, ol {
-      margin-bottom:18px;
-    }
-
-    ol {
-      margin-left: 20px;
-    }
-  }
-
-  th {
-    font-weight: 700;
-  }
-
-  td {
-    font-variant: tabular-nums;
-  }
-}
-
-
 .pagination {
   border: 1px solid $magenta;
   color: $font-color;
@@ -431,15 +343,4 @@ table {
   line-height: $font-line-height;
   padding: 10px;
   text-align: center;
-}
-
-footer > a {
-  color: $font-color;
-  font-size: 30px;
-  margin: 0 10px;
-  transition: color 0.1s ease-in;
-
-  &:visited {
-    color: $font-color;
-  }
 }
