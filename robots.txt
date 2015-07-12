@@ -1,1 +1,2 @@
 User-agent: *
+Sitemap: http://tomvanantwerp.com/sitemap.xml

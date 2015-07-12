@@ -1,10 +1,16 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     {% for post in site.posts %}
     <url>
         <loc>http://tomvanantwerp.com{{ post.url | remove: 'index.html' }}</loc>
+        <lastmod>{% if post.modified %}{{ post.modified | date: "%F" }}{% else %}{{ post.date | date: "%F" }}{% endif %}</lastmod>
+        {% if post.thumbnail %}
+        <image:image>
+          <image:loc>http://tomvanantwerp.com{{ post.thumbnail }}</image:loc> 
+        </image:image>
+        {% endif %}
     </url>
     {% endfor %}
 
