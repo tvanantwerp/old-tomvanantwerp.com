@@ -3,7 +3,7 @@ layout: post
 title:  "Insights from my 23andMe Data"
 author: Tom VanAntwerp
 date:   2015-07-13 21:57:00
-description: "I managed to get a third-party health screening of my 23andMe data. While there is certainly room for error in these results, what I did find out was enlightening."
+description: "I managed to get a third-party health screening of my 23andMe data. While there is room for error in these results, what I did find out was enlightening."
 tags:
   - 23andMe
   - dopamine
