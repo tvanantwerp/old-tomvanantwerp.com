@@ -3,6 +3,11 @@
   font-family: $font-serif;
   font-size: $font-size;
   line-height: $font-line-height;
+
+  @media (max-width: 760px) {
+    font-size: ( $font-size * 0.83 );
+    line-height: ( $font-line-height * 0.83 );
+  }
 }
 
 %default-post-meta {
@@ -82,7 +87,7 @@ h6 {
 h1 {
   font-size: ( $font-size * 2 );
   font-weight: 700;
-  line-height: ( $font-line-height * 2 );
+  line-height: ( $font-line-height * 1.8 );
 
   &.post-title {
     margin: 0 0 5px 0;
@@ -92,12 +97,12 @@ h1 {
 h2 {
   font-size: ( $font-size * 1.6 );
   font-weight: 700;
-  line-height: ( $font-line-height * 1.6 );
+  line-height: ( $font-line-height * 1.4 );
 }
 
 h3 {
   font-size: ( $font-size * 1.4 );
-  line-height: ( $font-line-height * 1.4 );
+  line-height: ( $font-line-height * 1.2 );
 }
 
 h4 {
