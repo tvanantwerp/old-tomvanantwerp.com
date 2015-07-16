@@ -31,30 +31,30 @@
   <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
   <!-- Open Graph Metadata -->
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:title" content="{{ page.title }}">
+  <meta name="og:site_name" content="{{ site.title }}">
+  <meta name="og:title" content="{{ page.title }}">
   <meta name="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/tom-poly.png" | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+  <meta name="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/tom-poly.png" | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
   {% if page.layout == "post" %}
-  <meta property="og:type" content="article">
-  <meta property="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta name="og:type" content="article">
+  <meta name="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
+  <meta name="article:published_time" content="{{ page.date | date_to_xmlschema }}">
     {% if page.tags %}
       {% for tag in page.tags %}
-      <meta property="article:tag" content="{{ tag }}">
+      <meta name="article:tag" content="{{ tag }}">
       {% endfor %}
     {% endif %}
   {% endif %}
-  <meta property="og:locale" content="en_US" />
+  <meta name="og:locale" content="en_US" />
   <!-- Twitter Metadata -->
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:site" content="{{ site.twitter_username }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ site.twitter_username }}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="twitter:creator" content="{{ site.twitter_username }}">
+  <meta name="twitter:creator" content="{{ site.twitter_username }}">
   <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+  <meta name="twitter:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/images/tom-poly.png" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <!-- Google Analytics -->
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
