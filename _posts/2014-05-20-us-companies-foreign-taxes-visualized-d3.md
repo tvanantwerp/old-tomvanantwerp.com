@@ -15,6 +15,8 @@ The Tax Foundation has just published [my first data visualization](http://taxfo
 
 This is my first attempt to build something in D3, so I’ve got lots of room to improve. The code needs plenty of refactoring, but it does what it’s supposed to. I’m looking forward to improving on this and making more visualizations for Tax Foundation!
 
+<iframe height="850px" src="http://static.taxfoundation.org/internationalMap/index.html" width="620px"></iframe>
+
 Some things to notes: Some countries have very high effective tax rates in some years. (I’ve seen as high as 400%.) This is atypical, and doesn’t usually happen in developed countries. In some years, taxable income was negative in some countries. Also, the IRS has tracked this data haphazardly. Some countries have no data, or missing data. The USSR broke up, and all former Soviet countries (including Russia) were tracked as the Former Soviet Union from 1994 to 2004. Only after 2005 were they broken out, and only Russia, Ukraine and Kazakhstan made the cut.
 
 Also, check out Bermuda. They have zero corporate income tax, and it looks like companies have started to notice.

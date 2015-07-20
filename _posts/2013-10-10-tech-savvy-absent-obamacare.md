@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tech Savvy Absent from Obamacare"
+title:  "Tech Savvy Absent from Obamacare"
 author: Tom VanAntwerp
 date:   2013-10-10 09:40:00
 thumbnail: /images/obamacare_retro.png

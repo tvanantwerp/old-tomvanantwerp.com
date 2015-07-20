@@ -19,8 +19,8 @@ I’ve still got some refactoring and outright rewriting to do before I’m happ
 
 ## Corporate Taxes Around the World
 
-<iframe height="850px" src="http://interactive.taxfoundation.org/world-corporate-tax-rates/index.html" width="620px"></iframe>
+<iframe height="850px" src="http://static.taxfoundation.org/world-corporate-tax-rates/index.html" width="620px"></iframe>
 
 ## Relative Value of $100 Across the US
 
-<iframe height="470px" src="http://interactive.taxfoundation.org/realPurchasingPower/index.html" width="620px"></iframe>
+<iframe height="470px" src="http://static.taxfoundation.org/realPurchasingPower/index.html" width="620px"></iframe>

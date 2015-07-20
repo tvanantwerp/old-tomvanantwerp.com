@@ -3,12 +3,13 @@ layout: post
 title:  "Kale Chips"
 author: Tom VanAntwerp
 date:   2014-06-27 17:50:00
-thumbnail: /images/kale-chips.jpg
 description: "Inspired by a coworker who told me of her love of kale chips—and the time she pounded on the doors of a closed Trader Joe’s in a desperate plea to buy some kale—I decided I would try it myself. So for the first time in my life, I bought a bag of washed and cut kale on the way home. I even sprung for the organic kale at a $0.30 premium. We can all guess what happened next"
 tags:
   - food
   - kale
 ---
+![Kale Chips](/images/kale-chips.jpg)
+
 Inspired by a coworker who told me of her love of kale chips—and the time she pounded on the doors of a closed Trader Joe’s in a desperate plea to buy some kale—I decided I would try it myself. So for the first time in my life, I bought a bag of washed and cut kale on the way home. I even sprung for the organic kale at a $0.30 premium.
 
 We can all guess what happened next.
