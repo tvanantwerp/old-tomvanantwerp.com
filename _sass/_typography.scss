@@ -1,8 +1,16 @@
+%default-font-properties {
+  mix-blend-mode: multiply;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 %default-article-fonts {
+  @extend %default-font-properties;
   color: $font-color;
   font-family: $font-serif;
   font-size: $font-size;
   line-height: $font-line-height;
+
 
   @media (max-width: 760px) {
     font-size: ( $font-size * 0.83 );
@@ -11,6 +19,7 @@
 }
 
 %default-post-meta {
+  @extend %default-font-properties;
   color: $gray-light;
   font-family: $font-sans-serif;
   font-size: ( $font-size * 0.7 );
@@ -78,6 +87,7 @@ h3,
 h4,
 h5,
 h6 {
+  @extend %default-font-properties;
   color: $font-color;
   font-family: $font-sans-serif;
   font-weight: 400;
