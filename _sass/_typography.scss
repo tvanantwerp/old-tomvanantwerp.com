@@ -1,5 +1,6 @@
 %default-font-properties {
   mix-blend-mode: multiply;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: subpixel-antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -241,8 +242,8 @@ kbd,
 samp,
 var {
   background: $gray-lightest;
-  border: 1px solid $purple-light;
   border-radius: 5px;
+  color: $purple-dark;
   display: inline-block;
   font-family: $font-monospace;
   font-size: 14px;
@@ -255,7 +256,6 @@ var {
   samp,
   var {
     background-color: none;
-    border: none;
     font-size: inherit;
     line-height: inherit;
     padding: 0;
