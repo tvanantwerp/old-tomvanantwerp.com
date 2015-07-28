@@ -31,3 +31,5 @@ And *voila*! It worked!
 ![Old vs New Text on my Blog](/images/tva-grayscale-text.png)
 
 Obviously, my little 'ole blog is still not at the level of Medium. I've got lots of work to do. And I'm quite certain that `mix-blend-mode` will not work on every browser--even my linter didn't believe me when I insisted it was a valid CSS property. But, at least for the moment, things look a little bit closer to what I want.
+
+> **Update**: I've [tested](https://www.browserstack.com/screenshots) these changes with positive results. The only browser that I've encountered serious issues with is Firefox for Android, which renders all text grayscale and jagged. Desktop Firefox has no issues, and I can't really debug on my phone. So for now, I'm willing to accept that Firefox on Android is awful. If anyone else encounters weird rendering problems, shoot me a message on Twitter with your OS and browser info.
