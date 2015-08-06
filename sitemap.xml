@@ -4,11 +4,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     {% for post in site.posts %}
     <url>
-        <loc>http://tomvanantwerp.com{{ post.url | remove: 'index.html' }}</loc>
+        <loc>{{ post.url | remove: 'index.html' | prepend: site.url }}</loc>
         <lastmod>{% if post.modified %}{{ post.modified | date: "%F" }}{% else %}{{ post.date | date: "%F" }}{% endif %}</lastmod>
         {% if post.thumbnail %}
         <image:image>
-          <image:loc>http://tomvanantwerp.com{{ post.thumbnail }}</image:loc> 
+          <image:loc>{{ post.thumbnail | prepend: site.url }}</image:loc>
         </image:image>
         {% endif %}
     </url>
@@ -18,7 +18,7 @@
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
     <url>
-        <loc>http://tomvanantwerp.com{{ page.url | remove: 'index.html' }}</loc>
+        <loc>{{ page.url | remove: 'index.html' | prepend: site.url }}</loc>
     </url>
     {% endif %}
     {% endif %}
