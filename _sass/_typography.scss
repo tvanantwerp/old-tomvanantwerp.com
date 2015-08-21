@@ -50,13 +50,10 @@ p.post-meta {
 }
 
 em {
-  @extend %default-article-fonts;
   font-style: italic;
-  font-weight: 400;
 }
 
 strong {
-  @extend %default-article-fonts;
   font-weight: 700;
 }
 
