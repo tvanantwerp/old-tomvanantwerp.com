@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: The Martian"
 author: Tom VanAntwerp
-date:   2015-08-21 23:01:00
+date:   2015-08-21 23:21:00
 thumbnail: /images/the_martian.png
 description: "If you think space travel is cool, then read The Martian. Just try to get over the fact that astronaut Mark Watney talks like a brogrammer."
 tags:
