@@ -17,7 +17,7 @@ When Soylent launched it’s first crowdfunding campaign, I backed it. A year or
 
 I can best describe the newest Soylent formula as a sand smoothie.
 
-While it’s certainly nice that the bottle of oil is no longer necessary, there are very distinct grains of particulate. [My blender is not exactly a lightweight](http://smile.amazon.com/gp/product/B003VWXXXK/), but there’s not much I can do about the grainy texture. I can feel bits of it get stuck in the back of my throat, and I’m concerned that—instead of helping my live with diverticular disease—the grains could cause diverticulitis.
+While it’s certainly nice that the bottle of oil is no longer necessary, there are very distinct grains of particulate. [My blender is not exactly a lightweight](http://amzn.to/1fx5PQW), but there’s not much I can do about the grainy texture. I can feel bits of it get stuck in the back of my throat, and I’m concerned that—instead of helping my live with diverticular disease—the grains could cause diverticulitis.
 
 The flavor is also pretty bland. I’m experimenting with flavoring it myself, but haven’t had too much luck. Cocoa powder helps a bit. Using coconut water made no difference. When I find something that works, I’ll share it.
 
