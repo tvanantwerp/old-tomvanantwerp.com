@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the personal blog of Tom VanAntwerp, a developer/designer/IT admin
   living and working in the Washington, DC, area.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tomvanantwerp.com" # the base hostname & protocol for your site
+url: "http://www.tomvanantwerp.com" # the base hostname & protocol for your site
 permalink: /:title/
 paginate: 5
 paginate_path: "/page/:num/"
