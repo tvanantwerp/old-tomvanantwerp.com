@@ -8,19 +8,21 @@ layout: default
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-meta">
-        <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        {% unless post.tags == empty %}
-        <span>&nbsp;&#124;&nbsp; Tagged: 
-          {% for tag in post.tags %}
-            {{ tag }}{% unless tag == post.tags.last %},{% endunless %}
-          {% endfor %}
-        </span>
-        {% endunless %}
-      </p>
+      <div class="listing-snippet">
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-meta">
+          <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+          {% unless post.tags == empty %}
+          <span>&nbsp;&#124;&nbsp; Tagged:
+            {% for tag in post.tags %}
+              {{ tag }}{% unless tag == post.tags.last %},{% endunless %}
+            {% endfor %}
+          </span>
+          {% endunless %}
+        </p>
+      </div>
     </li>
   {% endfor %}
 </ul>
