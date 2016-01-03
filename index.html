@@ -9,27 +9,10 @@ layout: default
   {% for post in paginator.posts %}
     <li>
       {% if post.thumbnail %}
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img class="thumbnail" src="{{ post.thumbnail }}">
-        </a>
+        {% include listing-thumbnail.html listing=post %}
+      {% else %}
+        {% include listing-no-thumbnail.html listing=post %}
       {% endif %}
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-meta">
-        <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        {% unless post.categories == empty %}
-        <span>&nbsp;&#124;&nbsp;
-          {% for category in post.categories %}
-            {{ category }}{% unless category == post.categories.last %},{% endunless %}
-          {% endfor %}
-        </span>
-        {% endunless %}
-      </p>
-      <p>
-        {{ post.description }}
-      </p>
-      <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">Read More...</a></p>
     </li>
   {% endfor %}
 </ul>

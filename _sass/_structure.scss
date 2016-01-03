@@ -34,52 +34,24 @@ img {
   width: 100%;
 }
 
-@media (max-width: 760px) {
+@media (max-width: $mobile-max) {
   html, body {
     margin: 0;
     padding: 0;
   }
 }
 
-@media (min-width: 760px) {
+@media (min-width: $mobile-max + 1) {
   html, body {
     margin: 0 auto;
     padding: 0;
-    width: 760px;
-  }
-
-  img.thumbnail {
-    float: right;
-    margin: 12px 0 12px 20px;
-    max-width: 30%;
+    width: $mobile-max;
   }
 
   article img.thumbnail {
-    float: none;
     margin: 0 0 12px;
     max-width: 100%;
     width: 100%;
-  }
-}
-
-ul.post-list > li {
-  @extend %clearfix;
-
-  border-bottom: 1px solid $gray-lighter;
-  padding: 15px 0 20px 0;
-
-  &:first-child {
-    padding: 0 0 20px 0;
-  }
-
-  &:last-child {
-    border: none;
-    padding: 15px 0 0 0;
-  }
-
-  > h2,
-  > p {
-    margin: 0 0 0 0;
   }
 }
 

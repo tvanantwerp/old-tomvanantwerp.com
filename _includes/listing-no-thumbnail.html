@@ -1,0 +1,19 @@
+<div class="listing-snippet">
+  <h2>
+    <a href="{{ include.listing.url | prepend: site.baseurl }}">{{ include.listing.title }}</a>
+  </h2>
+  <p class="post-meta">
+    <time datetime="{{ include.listing.date }}">{{ include.listing.date | date: "%b %-d, %Y" }}</time>
+    {% unless include.listing.categories == empty %}
+    <span>&nbsp;&#124;&nbsp;
+      {% for category in include.listing.categories %}
+        {{ category }}{% unless category == include.listing.categories.last %},{% endunless %}
+      {% endfor %}
+    </span>
+    {% endunless %}
+  </p>
+  <p>
+    {{ include.listing.description }}
+  </p>
+  <p class="read-more"><a href="{{ include.listing.url | prepend: site.baseurl }}">Read More...</a></p>
+</div>

@@ -37,6 +37,8 @@ $font-color: $gray-darker;
 $font-size: 18px;
 $font-line-height: ( $font-size * 1.6 );
 
+$mobile-max: 760px;
+
 @import "reset";
 @import "clearfix";
 @import "structure";
@@ -44,5 +46,6 @@ $font-line-height: ( $font-size * 1.6 );
 @import "highlights";
 @import "navigation";
 @import "tables";
+@import "listings";
 @import "footer";
 @import "social-buttons";
