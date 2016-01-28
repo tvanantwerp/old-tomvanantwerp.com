@@ -7,7 +7,7 @@ layout: default
   <div class="meta-and-sharing">
     <div class="post-meta">
       <img class="author-thumbnail" src="/images/tom_poly-24x24.png" alt="Tom VanAntwerp">
-      <p>By <span itemprop="author" itemscope itemptype="http://schema.org/Person">{{ page.author }}</span>
+      <p><span itemprop="author" itemscope itemptype="http://schema.org/Person">{{ page.author }}</span>
       on <time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}</time>
       {% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </div>
