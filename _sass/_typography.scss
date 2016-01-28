@@ -225,11 +225,11 @@ var {
   padding: 0 7px 1px 7px;
   transform: translateY(-1px);
 
-  code,
-  kbd,
-  samp,
-  var {
-    background-color: none;
+  > code,
+  > kbd,
+  > samp,
+  > var {
+    background-color: transparent;
     font-size: inherit;
     line-height: inherit;
     padding: 0;
@@ -273,11 +273,11 @@ pre {
   padding: 15px;
   overflow-x: auto;
 
-  code,
-  kbd,
-  samp,
-  var {
-    background-color: none;
+  > code,
+  > kbd,
+  > samp,
+  > var {
+    background-color: transparent;
     border: none;
     font-size: inherit;
     line-height: inherit;
