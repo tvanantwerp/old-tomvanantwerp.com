@@ -10,7 +10,7 @@ tags:
   - The Martian
   - Andy Weir
 ---
-The premise of [*The Martian*](http://amzn.to/1h2hnNl) is that astronaut Mark Watney is accidentally stranded on the surface of Mars. He doesn't have enough food or water or anything else to survive for long, and is forced to become MacGuyer to stay alive.
+The premise of [*The Martian*](http://amzn.to/1h2hnNl) is that astronaut Mark Watney is accidentally stranded on the surface of Mars. He doesn't have enough food or water or anything else to survive for long, and is forced to become MacGyver to stay alive.
 
 The story **of** *The Martian* is, in some ways, more incredible than the story **in** *The Martian*. Andy Weir wrote and published this book online as a series of free-to-read posts. Responding to his readers who didn't like reading books on a PC, he created a Kindle version and set the price to the minimum allowed. As sales grew and grew, his book became increasingly popular and is now being made into [a movie starring Matt Damon](https://www.youtube.com/watch?v=ej3ioOneTy8). It's an awesome tale of self-publishing success.
 
