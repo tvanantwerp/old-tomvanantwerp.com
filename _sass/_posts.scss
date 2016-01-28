@@ -1,0 +1,30 @@
+.meta-and-sharing {
+  align-items: center;
+  border: solid 1px $gray-lightest;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  padding: 5px;
+}
+
+.author-thumbnail {
+  display: inline;
+  height: auto;
+  margin: 0 16px 0 0;
+  width: auto;
+}
+
+.post-meta {
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+
+  p {
+    color: $gray-light;
+    font-family: $font-sans-serif;
+    font-size: ( $font-size * 0.8 );
+    line-height: ( $font-line-height * 0.8 );
+    margin: 0;
+  }
+}

@@ -20,12 +20,12 @@ $social-colors: (
 
 .social-buttons {
   @extend %default-social-link;
-  margin: 0 0 20px 0;
+  margin: 0;
 }
 
 .social-link {
   color: inherit;
-  margin: 0 8px;
+  margin: 0 0 0 16px;
 
   &:visited {
     color: inherit;
