@@ -42,7 +42,8 @@ ul.post-list > li {
 
   @media (min-width: $mobile-max + 1) {
     &.has-thumbnail {
-      flex-basis: 70%
+      flex: 1 0 70%;
+      padding-right: 25px;
     }
   }
 }
@@ -59,6 +60,5 @@ ul.post-list > li {
 
   @media (min-width: $mobile-max) {
     flex-basis: 30%;
-    margin-left: 15px;
   }
 }
