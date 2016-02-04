@@ -19,7 +19,7 @@ Now, before our interactive map loads, it checks to see if it's running on a `ta
 
 To implement this check to prevent hotlinking of iframes, do this:
 
-{% highlight javascript %}
+```javascript
 var url = (window.location != window.parent.location)
       ? document.referrer
       : document.location.href;
@@ -29,7 +29,7 @@ if (url.indexOf('yourdomain.com') < 0) {
 } else {
   // Run the code as normal
 }
-{% endhighlight %}
+```
 
 This snippet of JavaScript checks to see if your content is being loaded independently or in an iframe. Then it records either its own URL or the parent window's URL, and checks to see if `yourdomain.com` is anywhere in it. If someone is hotlinking your iframe, then this check fails and you can run whatever code you want to thwart their hotlinking attempt.
 

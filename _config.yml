@@ -16,9 +16,12 @@ locale: en_us
 
 # Build settings
 
-highlighter: pygments
+highlighter: rouge
 
 markdown: kramdown
 
 kramdown:
   input: GFM
+
+gems:
+  - jekyll-paginate

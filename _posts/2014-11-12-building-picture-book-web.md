@@ -64,13 +64,13 @@ That day, I stopped all development of the AngularJS chartbook and started worki
 
 I’m pretty blown away with what I was able to build using web components. Conditional templates were much easier to implement than with AngularJS. Whereas with AngularJS I had factories, directives, templates, and controllers all coming together to update a view with the correct styles for a particular page, with Polymer it was as easy as this:
 
-{% highlight handlebars %}{% raw %}
+```handlebars
 <template if="{{page.format == "special-type"}}">
   <div class="special-type-styles">
     {{page.content}}
   </div>
 </template>
-{% endraw %}{% endhighlight %}
+```
 
 I also didn’t need Foundation anymore, since the default styles of the web components were close enough to what I wanted. All it needed was a little bit of CSS touch-up work to look just right.
 
