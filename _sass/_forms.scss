@@ -1,0 +1,50 @@
+button,
+input,
+select,
+textarea {
+  background-color: transparent;
+  border: solid 1px $magenta;
+  border-radius: 5px;
+  color: $magenta;
+  font-family: $font-sans-serif;
+  font-size: ( $font-size * 0.8 );
+  font-weight: 400;
+  line-height: ( $font-line-height * 0.8 );
+  margin: 0 0 $font-line-height 0;
+  padding: 2px 7px;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+button:active,
+button:focus,
+button:hover,
+.button:active,
+.button:focus,
+.button:hover, {
+  background-color: $magenta;
+  color: white;
+}
+
+// These 4 prefixed styles are all necessary to change the color of placeholder text
+::-webkit-input-placeholder {
+ color: $magenta-light;
+ font-style: italic;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: $magenta-light;
+   font-style: italic;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: $magenta-light;
+   font-style: italic;
+}
+
+:-ms-input-placeholder {
+   color: $magenta-light;
+   font-style: italic;
+}
