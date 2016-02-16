@@ -3,6 +3,7 @@ layout: post
 title:  "Creating Crisp Text like Medium"
 author: Tom VanAntwerp
 date:   2015-07-27 23:01:00
+modified: 2015-10-16 12:00:00
 description: "Medium's text looks amazingly clean and it's a joy to read. Here's how I'm replicating it."
 tags:
   - css

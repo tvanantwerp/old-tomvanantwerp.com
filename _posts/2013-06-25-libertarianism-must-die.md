@@ -3,6 +3,7 @@ layout: post
 title:  "Libertarianism Must Die"
 author: Tom VanAntwerp
 date:   2013-06-25 11:50:00
+modified: 2015-07-12 12:00:00
 thumbnail: /images/dead_gadsden.png
 description: "The old rich white male racist homophobic pro-Confederacy anti-poor people brand of libertarianism must die. It’s a stain on the ideas of liberty that ought to appeal to all people, the least-well-off especially."
 tags:

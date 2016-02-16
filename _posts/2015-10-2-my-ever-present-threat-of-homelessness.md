@@ -3,6 +3,7 @@ layout: post
 title:  "My Ever Present Threat of Homelessness"
 author: Tom VanAntwerp
 date:   2015-10-02 23:31:00
+modified: 2015-10-14 12:00:00
 description: "Every couple of years, I'm on the verge of homelessness. My wife deserves better than this. I wish I knew how to give her better than this."
 thumbnail: /images/vacate.jpg
 tags:
@@ -23,5 +24,7 @@ Neither my wife nor I were born to money. We've worked very hard to get what lit
 This isn't the first time someone has tried to throw me out on the street. It's not even the first time **this company** has tried it (last time was over a water bill dispute). Every couple of years, I seem to be on the verge of homelessness for one reason or another. This is no way to live. My wife deserves better than this.
 
 I only wish I knew how to give her better than this.
+
+> **Update, 10/14/2015**: Valerie and I have thankfully been able to get together all the documents we need to satisfy our apartment building's requirements and extend our lease into the next year. We're safe for another year, but for how many more? I just want to enjoy our home for as long as we can.
 
 [cfasummit]: https://www.codeforamerica.org/summit/
