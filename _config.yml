@@ -15,6 +15,8 @@ dribbble_username: tvanantwerp
 locale: en_us
 
 # Build settings
+sass:
+  style: compressed
 
 highlighter: rouge
 
