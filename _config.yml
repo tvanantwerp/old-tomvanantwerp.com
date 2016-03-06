@@ -9,9 +9,13 @@ url: "http://www.tomvanantwerp.com" # the base hostname & protocol for your site
 permalink: /:title/
 paginate: 5
 paginate_path: "/page/:num/"
-twitter_username: tvanantwerp
-github_username:  tvanantwerp
+
+angelco_username: tom-vanantwerp
 dribbble_username: tvanantwerp
+instagram_username: tomvanantwerp
+github_username:  tvanantwerp
+twitter_username: tvanantwerp
+
 locale: en_us
 
 # Build settings
