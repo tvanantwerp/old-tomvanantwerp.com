@@ -5,16 +5,15 @@
   <p class="post-meta">
     <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
     {% unless post.categories == empty %}
-    <span>&nbsp;&#124;&nbsp;
+    <span class="post-categories">&nbsp;&#124;&nbsp;
       {% for category in post.categories %}
         {{ category }}{% unless category == post.categories.last %},{% endunless %}
       {% endfor %}
     </span>
     {% endunless %}
   </p>
-  <p>
+  <p class="post-description">
     {{ post.description }}
   </p>
-  <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">Read More...</a></p>
 </div>
 <a class="listing-thumbnail" style="background-image:url({{ post.thumbnail }})" href="{{ post.url | prepend: site.baseurl }}"></a>

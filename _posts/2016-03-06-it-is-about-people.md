@@ -8,7 +8,7 @@ tags:
   - IT
   - empathy
 ---
-If working in IT has taught me anything, it's empathy. Something beginners or outsiders might assume about working in IT is that it's all sitting behind a computer screen and never dealing with people. (In fairness, some of it is that.) But the most important thing to know for IT work is how to work with other people to solve their problems.
+If working in IT has taught me anything, its empathy. Something beginners or outsiders might assume about working in IT is that it's all sitting behind a computer screen and never dealing with people. (In fairness, some of it is that.) But the most important thing to know for IT work is how to work with other people to solve their problems.
 
 People usually come to you with a symptom of an underlying issue. There are two main flavors of symptomatic complaints. The first is the **vague complaint**, e.g., "The computer is slow." The second is the **odd request**, which is when the user asks you to help them do something that, in your expert opinion, makes no sense, but, in the user's mind, will help them solve whatever their problem is. In both cases, it's up to you to figure out what the real problem is and help the user implement a solution. The only way to do this is by *talking* with the user and asking them about what they've been doing and what their goals are.
 

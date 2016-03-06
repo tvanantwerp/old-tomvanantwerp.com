@@ -5,15 +5,14 @@
   <p class="post-meta">
     <time datetime="{{ include.listing.date }}">{{ include.listing.date | date: "%b %-d, %Y" }}</time>
     {% unless include.listing.categories == empty %}
-    <span>&nbsp;&#124;&nbsp;
+    <span class="post-categories">&nbsp;&#124;&nbsp;
       {% for category in include.listing.categories %}
         {{ category }}{% unless category == include.listing.categories.last %},{% endunless %}
       {% endfor %}
     </span>
     {% endunless %}
   </p>
-  <p>
+  <p class="post-description">
     {{ include.listing.description }}
   </p>
-  <p class="read-more"><a href="{{ include.listing.url | prepend: site.baseurl }}">Read More...</a></p>
 </div>
