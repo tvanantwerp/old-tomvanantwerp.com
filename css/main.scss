@@ -40,13 +40,5 @@ $font-line-height: ( $font-size * 1.6 );
 $mobile-max: 760px;
 
 @import "reset";
-@import "structure";
-@import "typography";
-@import "highlights";
-@import "navigation";
-@import "tables";
-@import "forms";
-@import "listings";
-@import "footer";
+@import "splash";
 @import "social-buttons";
-@import "posts";

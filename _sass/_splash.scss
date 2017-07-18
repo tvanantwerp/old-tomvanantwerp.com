@@ -1,0 +1,14 @@
+.splash {
+  background: linear-gradient(
+    to bottom,
+    $yellow-light 0%,
+    $yellow 17%,
+    $peach-light 34%,
+    $peach 50%,
+    $peach-dark 67%,
+    $magenta-light 84%,
+    $magenta 100%
+  );
+  height: 100vh;
+  width: 100%;
+}
