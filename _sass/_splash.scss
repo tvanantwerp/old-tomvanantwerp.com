@@ -22,4 +22,17 @@
     font-weight: 700;
     text-align: center;
   }
+
+  &__social-links {
+    text-align: center;
+  }
+
+  & .social-link {
+    color: #fff;
+    display: inline;
+
+    &:visited {
+      color: #fff;
+    }
+  }
 }
