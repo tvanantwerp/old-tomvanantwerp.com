@@ -10,8 +10,11 @@ permalink: /:title/
 paginate: 5
 paginate_path: "/page/:num/"
 
-github_username:  tvanantwerp
-twitter_username: tvanantwerp
+social_media:
+- platform: github
+  profile: https://github.com/tvanantwerp
+- platform: twitter
+  profile: https://twitter.com/tvanantwerp
 
 locale: en_us
 
