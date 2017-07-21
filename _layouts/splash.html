@@ -11,12 +11,7 @@
 
       <div class="splash__social-links">
         {% for media in site.social_media %}
-          <a
-            class="social-link social-link--{{ media.platform }}"
-            href="{{ media.profile }}"
-          >
-            {{ media.platform }}
-          </a>
+          <a class="social-link social-link--{{ media.platform }}" href="{{ media.profile }}">{{ media.platform }}</a>
         {% endfor %}
       </div>
 
