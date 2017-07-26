@@ -1,10 +1,3 @@
-%default-social-link {
-  color: $gray-light;
-  font-family: $font-sans-serif;
-  font-size: ( $font-size * 0.8 );
-  line-height: ( $font-line-height * 0.8 );
-}
-
 $social-colors: (
   angelco: #555555,
   dribbble: #ea4c89,
@@ -19,22 +12,20 @@ $social-colors: (
 
 );
 
-.social-buttons {
-  @extend %default-social-link;
-  margin: 0;
-}
-
 .social-link {
-  color: inherit;
+  color: $gray-light;
+  font-family: $font-sans-serif;
+  font-size: ( $font-size * 0.8 );
+  line-height: ( $font-line-height * 0.8 );
   margin: 0 0 0 10px;
 
   &:visited {
-    color: inherit;
+    color: $gray-light;
   }
 }
 
 @each $social-media, $social-color in $social-colors {
-  .#{$social-media}-link {
+  .social-link--#{$social-media} {
     &:focus,
     &:hover {
       color: $social-color;

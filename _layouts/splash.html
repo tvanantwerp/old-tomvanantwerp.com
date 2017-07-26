@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="splash">
+
+      <h1 class="splash__heading">Tom VanAntwerp</h1>
+
+      <div class="splash__social-links">
+        {% for media in site.social_media %}
+          <a class="social-link social-link--{{ media.platform }}" href="{{ media.profile }}">{{ media.platform }}</a>
+        {% endfor %}
+      </div>
+
+    </div>
+
+    {% include footer-scripts.html %}
+
+  </body>
+
+</html>
